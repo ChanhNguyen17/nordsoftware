@@ -1,0 +1,27 @@
+{
+  "name": "nordsoftware",
+  "version": "1.0.0",
+  "description": "recruitment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanhNguyen17/nordsoftware.git"
+  },
+  "author": "Chanh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanhNguyen17/nordsoftware/issues"
+  },
+  "homepage": "https://github.com/ChanhNguyen17/nordsoftware#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
+}
